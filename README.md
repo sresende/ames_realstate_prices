@@ -1,4 +1,4 @@
-# Project 2 - Prediction Model for Ames's Properties Sale Price
+# Prediction Model for Ames's Properties Sale Price
 
 ## Problem Statement
 The objective of the project is to develop a regression model to predict the sale price for those who own a property in the Ames area and want to know how much approximate their property worth in case they decide to sell.
